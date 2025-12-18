@@ -1,0 +1,7 @@
+# Ignore Windows batch files
+*.bat
+
+# Ignore Python cache directories and compiled files
+__pycache__/
+**/__pycache__/
+*.pyc
